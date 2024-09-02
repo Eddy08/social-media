@@ -1,5 +1,8 @@
 # New Idea for Social-Media
 
+## UI can be coded and modified with a github repo
+- Users can add the github repo and that can be seen and shared with other users (ability to share the configurations with other users)
+
 ## Comments as the Post for discussion
 - Can become posts and can be shared and discussed within the community.
 
