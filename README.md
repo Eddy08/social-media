@@ -11,3 +11,7 @@
 ## Posts will be of the same theme and will suggest users for the New Posts that they are clicking with AI generated same feeds
 
 ## All the posts will not be copyrighted.
+
+## Redirection from tradational platforms to this platform 
+  - Ability to redirect sources like when you are suggesting something that is from the book, navigate to the website and open up the book so that the user can see it.
+  - Ability to monetize that book and pay for further use.
