@@ -7,6 +7,7 @@
 
 ## Comments as the Post for discussion
 - Can become posts and can be shared and discussed within the community.
+- Analytics on Comments user polls and ability to get the details based on bais with AI and search results.
 
 ## Ability to Add shareable scroll feeds of music and videos and posts to community or share with other.
 
