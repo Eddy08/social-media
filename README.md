@@ -10,7 +10,8 @@
 - Analytics on Comments user polls and ability to get the details based on bais with AI and search results.
 
 ## Ability to Add shareable scroll feeds of music and videos and posts to community or share with other.
-
+## Ability to Create, Add and Share Feeds Algorithms.
+## Ability to use this social media without login.
 ## Posts will be of the same theme/ filter and will suggest users for the New Posts automatically that they are clicking with AI generated same feeds
 
 ## All the posts will not be copyrighted.
