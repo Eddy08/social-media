@@ -14,7 +14,9 @@
 ## Ability to use this social media without login.
 ## Posts will be of the same theme/ filter and will suggest users for the New Posts automatically that they are clicking with AI generated same feeds
 
-## All the posts will not be copyrighted.
+## All the posts will not be copyrighted
+- Main Idea for the posts is to be shared and get the initial thoughts.
+- Monetize on the content discussion.
 
 ## Redirection from tradational platforms to this platform 
   - Ability to redirect sources like when you are suggesting something that is from the book, navigate to the website and open up the book so that the user can see it.
