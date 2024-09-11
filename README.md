@@ -18,7 +18,7 @@
 ## All the posts will not be copyrighted
 - Main Idea for the posts is to be shared and get the initial thoughts.
 - Monetize on the content discussion.
-
+## Built in analytics for everyone and ability to take that data and modify it easily.
 ## Redirection from tradational platforms to this platform 
   - Ability to redirect sources like when you are suggesting something that is from the book, navigate to the website and open up the book so that the user can see it.
   - Ability to monetize that book and pay for further use.
