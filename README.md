@@ -2,6 +2,7 @@
 
 ## Sustainablity Built-In:
   - Users Personal Ambitions can be used to alert users about the time and further what they can use their time for.
+## Content Moderation as Social Media Posts with Polls and Debates with Community Automatically
 ## UI can be coded and modified with a github repo
 - Users can add the github repo and that can be seen and shared with other users (ability to share the configurations with other users)
 
