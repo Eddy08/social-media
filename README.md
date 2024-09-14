@@ -14,6 +14,7 @@
 ## Ability to Create, Add and Share Feeds Algorithms.
 ## Ability to use this social media without login.
 ## Posts will be of the same theme/ filter and will suggest users for the New Posts automatically that they are clicking with AI generated same feeds
+## Reactions to Post with AI immediately
 ## Ability to ask questions as feedback and that too according to user behaviour.
 ## Ability to Integrate to popular social media as a single point of contact.
 ## All the posts will not be copyrighted
